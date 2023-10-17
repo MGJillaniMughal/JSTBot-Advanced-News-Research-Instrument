@@ -39,5 +39,5 @@ Engage with the system by posing inquiries and receiving detailed responses base
 main.py: Primary script powering the Streamlit application.
 
 requirements.txt: Enumerates the requisite Python packages.
-# faiss_store_openai.pkl: A designated pickle file for FAISS index storage.
+faiss_store_openai.pkl: A designated pickle file for FAISS index storage.
 .env: A configuration vessel for your OpenAI API key storage.
